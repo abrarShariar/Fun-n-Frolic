@@ -1,7 +1,10 @@
 # Fun and Frolic
 Fun and Frolic's Photography site built with [Hexo](https://hexo.io/)
 
-##Features
+## Preview
+![](https://raw.githubusercontent.com/abrarShariar/Fun-n-Frolic/master/demo.PNG)
+
+## Features
 
 * Disques and Facebook comments
 * Google Analytics
